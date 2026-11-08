@@ -1,4 +1,4 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.5.1
+torch==2.5.1+cpu
 numpy==2.2.1
 scikit-learn==1.6.1
